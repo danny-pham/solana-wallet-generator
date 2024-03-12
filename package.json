@@ -1,0 +1,32 @@
+{
+  "name": "solana-wallet-generator",
+  "version": "1.0.0",
+  "description": "solana-wallet-generator",
+  "main": "solana-wallet-generator.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danny-pham/solana-wallet-generator.git"
+  },
+  "keywords": [
+    "solana",
+    "seed",
+    "pharse",
+    "generator",
+    "crypto",
+    "wallet"
+  ],
+  "author": "danny-pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danny-pham/solana-wallet-generator/issues"
+  },
+  "homepage": "https://github.com/danny-pham/solana-wallet-generator#readme",
+  "dependencies": {
+    "solana/web3.js": "^1.91.0",
+    "seed-phrase-generator": "^1.2.7"
+  },
+  "devDependencies": {}
+}
